@@ -19,8 +19,10 @@ class User:
 p1 = User()
 
 p1.name = 'charlie'
+
 print(p1.name)
 
 del p1.name
+
 print(p1.name)
 
